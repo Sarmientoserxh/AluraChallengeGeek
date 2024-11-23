@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": "39ad",
+      "nombre": "batman",
+      "precio": "60",
+      "imagen": "https://toogeek.co/wp-content/uploads/2020/11/889698114967.jpeg"
+    },
+    {
+      "id": "ee8b",
+      "nombre": "HunterXHunter",
+      "precio": "58",
+      "imagen": "https://cconnect.s3.amazonaws.com/wp-content/uploads/2022/02/Funko-Pop-Hunter-x-Hunter-Figures-1028-Alluka-Zoldyck-Chase-Hot-Topic-exclusive.jpg"
+    },
+    {
+      "id": "0279",
+      "nombre": "Deadpool",
+      "precio": "45",
+      "imagen": "https://colombia.com.co/wp-content/uploads/2021/05/holiday-deadpool.jpg"
+    },
+    {
+      "id": "36cb",
+      "nombre": "godzilla",
+      "precio": "60",
+      "imagen": "https://th.bing.com/th?id=OIF.n7BSppQ%2brvDcTMaSL6wpew&rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7dbb",
+      "nombre": "Mario Bros",
+      "precio": "45",
+      "imagen": "https://acdn.mitiendanube.com/stores/002/259/066/products/mario-funko-grande-62656f782a2bec95b717045032021491-1024-1024.png"
+    }
+  ]
+}
