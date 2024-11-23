@@ -1,7 +1,7 @@
 # AluraChallengeGeek
 Hello 😁. This is my challenge of frontEnd to Alura Latam Oracle. Thanks for Watching,
 # AluraGeek CRUD Project
-<div style="background: #FFFFFF; display: flex; justify-content: center; align-items: center" >
+<div  style="background: #FFFFFF; display: flex; justify-content: center; align-items: center; widht:100%"; height: 60px; >
 <img src="images/aluraLogoGeek.svg" alt="logo AluraGeek">
 </div>
 
