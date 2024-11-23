@@ -63,10 +63,6 @@ Para iniciar el servidor JSON y la aplicación:
 
 - Todos los productos se listan automáticamente al cargar la página.
 
-### Actualizar un Producto
-
-- Hacer clic en el icono de editar junto a un producto para modificar sus detalles.
-
 ### Eliminar un Producto
 
 - Hacer clic en el icono de basura para eliminar un producto de la lista.
