@@ -96,9 +96,9 @@ Las contribuciones son bienvenidas. Por favor, haga un fork del repositorio y en
 
 ## 📧 Contacto
 
-- **Autor**: Tu Nombre
-- **Email**: tu-email@example.com
+- **Autor**: Sergio Sarmiento
+- **Email**: sergiioo.sarmiento@gmail.com
 
 ---
 
-¡Gracias por utilizar AluraGeek! reto hecho por Alura Latam Oracle.
+¡Gracias por utilizar AluraGeek! reto propuesto por Alura Latam Oracle G7.
